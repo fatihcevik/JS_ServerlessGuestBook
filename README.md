@@ -1,1 +1,1 @@
-# serverless-guestbook
+Serverless guestbook works with IBM cloud
